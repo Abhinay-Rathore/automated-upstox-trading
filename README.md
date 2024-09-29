@@ -1,1 +1,1 @@
-# automated-upstox-trading-
+# automated-upstox-trading
